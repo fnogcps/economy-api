@@ -1,0 +1,16 @@
+{
+  "name": "economy-api",
+  "version": "1.0.0",
+  "repository": "https://github.com/fnogcps/economy-api",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint -c .eslintrc.json ."
+  },
+  "devDependencies": {
+    "axios": "^0.19.0",
+    "eslint": "^6.0.0",
+    "eslint-config-prettier": "^5.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  },
+  "license": "ISC"
+}
